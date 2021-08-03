@@ -11,6 +11,5 @@
 * ***Change directory to where you have downloaded this code***
 * **Write**   `  pip install -r requirements.txt  ` 
 * **Run the command** `python social_distance_detector.py --input pedestrians.mp4 --output output.avi --display 1
-# For GPU:
-You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/13IzdPCsAo4L613cmBEmrtM-NgSvMukb-?usp=sharing)
+
 
