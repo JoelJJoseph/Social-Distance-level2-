@@ -1,4 +1,6 @@
 # Social-distance-detection
+# Drive Link for Video
+https://drive.google.com/drive/folders/1ZfTz9vmB_lyl7qpC5K4Xjk3zoSoKhocI?usp=sharing
 
 
 #### Github usually doesn't support files larger than 25 Mb.You can find the yolo weights in [My google drive](https://drive.google.com/file/d/1Ns7PlPY1VqayvHsDHl5EHMBf2q62AVU4/view?usp=sharing) 
