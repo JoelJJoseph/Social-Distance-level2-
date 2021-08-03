@@ -10,6 +10,6 @@
 * ***Open your terminal**
 * ***Change directory to where you have downloaded this code***
 * **Write**   `  pip install -r requirements.txt  ` 
-* **Run the command** `python social_distance_detector.py --input pedestrians.mp4 --output output.avi --display 1
+* **Run the command** `python social_distance_detector.py --input pedestrians.mp4 --output output.avi --display 1'
 
 
